@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-21T05:02:59 GMT-04:00" name="Default suite" finished-at="2021-05-21T05:03:55 GMT-04:00" duration-ms="56342">
+    <groups>
+    </groups>
+    <test started-at="2021-05-21T05:02:59 GMT-04:00" name="Default test" finished-at="2021-05-21T05:03:55 GMT-04:00" duration-ms="56342">
+      <class name="simpleregistration.FormPractice">
+        <test-method is-config="true" signature="setup()[pri:0, instance:simpleregistration.FormPractice@4b5a5ed1]" started-at="2021-05-21T05:02:59 GMT-04:00" name="setup" finished-at="2021-05-21T05:03:09 GMT-04:00" duration-ms="10231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="NC1()[pri:1, instance:simpleregistration.FormPractice@4b5a5ed1]" started-at="2021-05-21T05:03:09 GMT-04:00" name="NC1" finished-at="2021-05-21T05:03:11 GMT-04:00" duration-ms="2094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC1 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:simpleregistration.FormPractice@4b5a5ed1]" started-at="2021-05-21T05:03:11 GMT-04:00" name="close" finished-at="2021-05-21T05:03:12 GMT-04:00" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:simpleregistration.FormPractice@4b5a5ed1]" started-at="2021-05-21T05:03:12 GMT-04:00" name="setup" finished-at="2021-05-21T05:03:18 GMT-04:00" duration-ms="6330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="NC2()[pri:2, instance:simpleregistration.FormPractice@4b5a5ed1]" started-at="2021-05-21T05:03:18 GMT-04:00" name="NC2" finished-at="2021-05-21T05:03:20 GMT-04:00" duration-ms="2292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC2 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:simpleregistration.FormPractice@4b5a5ed1]" started-at="2021-05-21T05:03:20 GMT-04:00" name="close" finished-at="2021-05-21T05:03:21 GMT-04:00" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:simpleregistration.FormPractice@4b5a5ed1]" started-at="2021-05-21T05:03:21 GMT-04:00" name="setup" finished-at="2021-05-21T05:03:27 GMT-04:00" duration-ms="6381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="NC3()[pri:3, instance:simpleregistration.FormPractice@4b5a5ed1]" started-at="2021-05-21T05:03:27 GMT-04:00" name="NC3" finished-at="2021-05-21T05:03:29 GMT-04:00" duration-ms="2233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC3 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:simpleregistration.FormPractice@4b5a5ed1]" started-at="2021-05-21T05:03:29 GMT-04:00" name="close" finished-at="2021-05-21T05:03:29 GMT-04:00" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:simpleregistration.FormPractice@4b5a5ed1]" started-at="2021-05-21T05:03:29 GMT-04:00" name="setup" finished-at="2021-05-21T05:03:34 GMT-04:00" duration-ms="5164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="NC4()[pri:4, instance:simpleregistration.FormPractice@4b5a5ed1]" started-at="2021-05-21T05:03:34 GMT-04:00" name="NC4" finished-at="2021-05-21T05:03:36 GMT-04:00" duration-ms="1650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC4 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:simpleregistration.FormPractice@4b5a5ed1]" started-at="2021-05-21T05:03:36 GMT-04:00" name="close" finished-at="2021-05-21T05:03:36 GMT-04:00" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:simpleregistration.FormPractice@4b5a5ed1]" started-at="2021-05-21T05:03:36 GMT-04:00" name="setup" finished-at="2021-05-21T05:03:42 GMT-04:00" duration-ms="6380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="NC5()[pri:5, instance:simpleregistration.FormPractice@4b5a5ed1]" started-at="2021-05-21T05:03:42 GMT-04:00" name="NC5" finished-at="2021-05-21T05:03:45 GMT-04:00" duration-ms="2300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC5 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:simpleregistration.FormPractice@4b5a5ed1]" started-at="2021-05-21T05:03:45 GMT-04:00" name="close" finished-at="2021-05-21T05:03:45 GMT-04:00" duration-ms="491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:simpleregistration.FormPractice@4b5a5ed1]" started-at="2021-05-21T05:03:45 GMT-04:00" name="setup" finished-at="2021-05-21T05:03:52 GMT-04:00" duration-ms="7109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="NC6()[pri:6, instance:simpleregistration.FormPractice@4b5a5ed1]" started-at="2021-05-21T05:03:52 GMT-04:00" name="NC6" finished-at="2021-05-21T05:03:55 GMT-04:00" duration-ms="2822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC6 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:simpleregistration.FormPractice@4b5a5ed1]" started-at="2021-05-21T05:03:55 GMT-04:00" name="close" finished-at="2021-05-21T05:03:55 GMT-04:00" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- simpleregistration.FormPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
